@@ -1,0 +1,37 @@
+{
+	"folders": [
+		{
+			"path": "C:\\Users\\cembu\\Desktop\\Yeni klasör\\mosh"
+		},
+		{
+			"path": "C:\\Users\\cembu\\Desktop\\Yeni klasör\\components"
+		},
+		{
+			"path": "C:\\Users\\cembu\\Desktop\\Yeni klasör\\season"
+		},
+		{
+			"path": "C:\\Users\\cembu\\Desktop\\Yeni klasör\\clock"
+		},
+		{
+			"path": "C:\\Users\\cembu\\Desktop\\Yeni klasör\\pics"
+		},
+		{
+			"path": "C:\\Users\\cembu\\Desktop\\Yeni klasör\\videos"
+		},
+		{
+			"path": "C:\\Users\\cembu\\Desktop\\Yeni klasör\\songs"
+		},
+		{
+			"path": "C:\\Users\\cembu\\Desktop\\Yeni klasör\\blog"
+		},
+		{
+			"path": "C:\\Users\\cembu\\Desktop\\Yeni klasör\\streams\\client"
+		},
+		{
+			"path": "C:\\Users\\cembu\\Desktop\\GitHub Projects"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "GitHub Projects"
+	}
+}

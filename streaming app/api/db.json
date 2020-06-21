@@ -1,0 +1,16 @@
+{
+  "streams": [
+    {
+      "title": "MY FIRST STREAM",
+      "description": "my first stream",
+      "userId": "106634324379565467429",
+      "id": 10
+    },
+    {
+      "title": "Riot Games",
+      "description": "League of Legends ",
+      "userId": "106634324379565467429",
+      "id": 11
+    }
+  ]
+}
